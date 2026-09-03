@@ -3,7 +3,9 @@
 ## Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Mario's GitHub stats" style="margin-right: 20px;" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mariovido&theme=dark&border_radius=10&timezone=CEST&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <br><br>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=mariovido&show_icons=true&theme=dracula&hide=contribs,issues&show=reviews,prs_merged&rank_icon=github" alt="Mario's GitHub stats" /></a>
 </p>
 
 ## Contact
