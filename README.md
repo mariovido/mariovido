@@ -1,4 +1,4 @@
-# Mario Vidal Domínguez - @Mariovido
+# Mario - @mariovido
 
 ## Stats
 
